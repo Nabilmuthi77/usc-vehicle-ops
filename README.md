@@ -1,6 +1,6 @@
 # USC Vehicle Ops
 
-Sistem manajemen operasional kendaraan berbasis web untuk USC, dibangun dengan **Laravel 13** + **Vite** + **Tailwind CSS 4**.
+Sistem manajemen operasional kendaraan berbasis web untuk USC, dibangun dengan **Laravel 12** + **Vite** + **Tailwind CSS 4**.
 
 ---
 
